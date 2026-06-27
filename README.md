@@ -117,7 +117,7 @@ Every source file in this repo:
 | Patterns | 6 | Functional options, worker pool, fan-in/out, circuit breaker |
 | Networking | 5 | TCP, HTTP, WebSocket, gRPC, epoll internals |
 | Systems | 5 | Memory model, escape analysis, GC tuning, profiling, unsafe |
-| Production | 5 | Project layout, errors, testing, benchmarks, CI |
+| Production | 5+ | Project layout, errors, testing, benchmarks, CI, **Clean Architecture Backend** |
 | DSA | 8 | LRU, trie, concurrent map, ring buffer, interview patterns |
 | Distributed | 5 | Kafka, Redis, Postgres, K8s deployment, observability |
 
