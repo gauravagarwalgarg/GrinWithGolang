@@ -1,0 +1,15 @@
+# Binaries
+bin/
+*.exe
+*.out
+
+# Go
+vendor/
+go.sum
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
