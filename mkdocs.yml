@@ -1,0 +1,18 @@
+site_name: Grin With Golang
+site_url: https://gauravagarwalgarg.github.io/grin-with-golang/
+repo_url: https://github.com/GauravAgarwalGarg/grin-with-golang
+theme:
+  name: material
+  palette:
+    - scheme: slate
+  features:
+    - navigation.sections
+    - content.code.copy
+    - search.suggest
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - tables
+  - toc:
+      permalink: true

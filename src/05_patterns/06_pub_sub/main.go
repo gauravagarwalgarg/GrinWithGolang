@@ -6,7 +6,7 @@ What this teaches:
 
 Beginner analogy:
     "Like a newspaper subscription: you subscribe to 'Sports' or 'Tech'. When a new
-     article (event) is published to that topic, all subscribers get notified —
+     article (event) is published to that topic, all subscribers get notified 
      without the writer knowing who's reading."
 
 C++ comparison:

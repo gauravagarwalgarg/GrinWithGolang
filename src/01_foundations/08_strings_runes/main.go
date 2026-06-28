@@ -5,7 +5,7 @@ What this teaches:
     for efficient concatenation.
 
 Beginner analogy:
-    "A string is a necklace of beads; a rune is one bead (which might be wide —
+    "A string is a necklace of beads; a rune is one bead (which might be wide 
      like an emoji taking multiple bytes). len() counts the thread length in
      bytes, not the number of beads."
 
